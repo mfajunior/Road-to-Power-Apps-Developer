@@ -18,7 +18,7 @@ O objetivo principal desta jornada é consolidar o domínio no desenvolvimento d
 
 Cada pasta neste diretório representa um marco na minha evolução técnica. Abaixo estão os projetos desenvolvidos até o momento:
 
-### 1. [📱 Aplicativo de Cadastro Automatizado com Captura de Foto](./1. Aplicativo de Cadastro)
+### 1. [📱 Aplicativo de Cadastro Automatizado com Captura de Foto](./1.%20Aplicativo%20de%20Cadastro)
 * **Descrição:** Solução focada na automação de registros de usuários/clientes com captura de foto em tempo real pela câmera do dispositivo.
 * **Stack:** Power Apps (Canvas App) + Microsoft Dataverse (Premium).
 * **Status:** Concluído.
