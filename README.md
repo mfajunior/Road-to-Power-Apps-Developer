@@ -1,55 +1,42 @@
-# Road-to-Power-Apps-Developer
-# 📱 Aplicativo de Cadastro Automatizado com Captura de Foto
+# 🚀 Road to Power Apps Developer
 
-![Power Apps](https://img.shields.io/badge/Power%20Apps-Canvas%20App-blueviolet?style=for-the-badge&logo=microsoftpowerapps)
-![Dataverse](https://img.shields.io/badge/Microsoft%20Dataverse-Database-blue?style=for-the-badge&logo=microsoftdataverse)
+Bem-vindo ao meu repositório de evolução e projetos no ecossistema **Microsoft Power Platform**. Este espaço funciona como o meu diário de bordo técnico, onde registro minha jornada prática de aprendizado, arquitetura de soluções *Low-Code*, modelagem de dados e governança.
 
-Uma solução moderna e ágil desenvolvida em **Power Apps (Canvas App)** para automatizar o processo de cadastro de clientes, usuários e visitantes. O grande diferencial do aplicativo é a integração nativa com a câmera do dispositivo, permitindo capturar e vincular a foto da pessoa instantaneamente no momento do registro.
+O objetivo principal desta jornada é consolidar o domínio no desenvolvimento de aplicações corporativas robustas, escaláveis e integradas, pavimentando o caminho para desafios complexos como a integração com sistemas de grande porte (**SAP**).
 
 ---
 
-## 💡 Cenário de Uso (Problema/Solução)
+## 🛠️ Tecnologias & Hard Skills em Desenvolvimento
 
-Muitas empresas, lojas e recepções ainda sofrem com processos lentos de cadastro manual, digitação incorreta de dados ou falta de identificação visual dos cadastrados. 
-
-Este aplicativo foi desenhado para ser **universal**, atendendo a qualquer estabelecimento que necessite de um fluxo rápido de identificação e registro, garantindo a integridade dos dados e o armazenamento seguro das fotos dos usuários.
-
----
-
-## 🚀 Funcionalidades Principais
-
-- **Cadastro Simplificado:** Captura de informações básicas essenciais (Nome, Idade, E-mail, Telefone, etc.) em uma interface intuitiva.
-- **Captura de Foto em Tempo Real:** Integração com a câmera do celular, tablet ou notebook para tirar a foto do usuário direto pelo app durante o fluxo de cadastro.
-- **Validação de Dados:** Mecanismos simples para garantir que campos obrigatórios sejam preenchidos antes de salvar.
-- **Armazenamento Centralizado:** Envio imediato e seguro dos dados e imagens para a nuvem.
+- **Power Apps:** Desenvolvimento de *Canvas Apps* (Aplicativos de Tela) focados em excelente experiência do usuário (UX), manipulação de fórmulas em *Power Fx* e integração nativa com recursos de hardware.
+- **Modelagem de Dados:** Estruturação de bancos de dados relacionais utilizando o **Microsoft Dataverse** (tabelas, relacionamentos, chaves primárias/estrangeiras e tipos de dados complexos como arquivos e imagens).
+- **Automação & Processos:** Próximos passos voltados para a criação de fluxos automatizados em *Power Automate* (Cloud e Desktop/RPA).
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 📂 Estrutura do Repositório & Projetos
 
-- **[Microsoft Power Apps](https://learn.microsoft.com/pt-br/power-apps/):** Utilizado o modelo **Canvas App (Aplicativo de Tela)** para total liberdade de personalização do layout e da experiência do usuário (UX).
-- **[Microsoft Dataverse](https://learn.microsoft.com/pt-br/power-apps/maker/data-platform/data-platform-intro):** Escolhido como banco de dados relacional por sua robustez, segurança de nível empresarial e suporte nativo ao tipo de dados `Imagem` de alta resolução.
+Cada pasta neste diretório representa um marco na minha evolução técnica. Abaixo estão os projetos desenvolvidos até o momento:
 
----
-
-## 📸 Demonstração
-
-<div align="center">
-
-| Tela de Cadastro | Captura de Câmera |
-| :--- | :--- |
-| <img width="115" alt="Tela de Cadastro" src="https://github.com/user-attachments/assets/a4737822-40ce-4ad9-88ed-757ebaf1587e" /> | <img width="115" alt="Captura de Câmera" src="https://github.com/user-attachments/assets/bde4f4b9-aaee-4d0f-9906-ca2c22561f55" /> |
-
-</div>
+### 1. [📱 Aplicativo de Cadastro Automatizado com Captura de Foto](./cadastro-usuarios)
+* **Descrição:** Solução focada na automação de registros de usuários/clientes com captura de foto em tempo real pela câmera do dispositivo.
+* **Stack:** Power Apps (Canvas App) + Microsoft Dataverse (Premium).
+* **Status:** Concluído.
 
 ---
 
-## 📝 Próximos Projetos & Roadmap de Aprendizado
+## 🗺️ Roadmap de Aprendizado & Próximos Passos
 
-- [ ] **Integração com SAP (Grande Foco Corporativo):** Implementar a conectividade entre a Power Platform e o ecossistema SAP (via SAP ERP Connector ou APIs) para automação de processos de negócios integrados.
-- [ ] **App de Solicitação de Compras com Esteira de Aprovação:** Desenvolver uma solução integrada ao Power Automate para envio de notificações e governança de dados antes da integração com ERPs.
-- [ ] **Implementação de IA (AI Builder):** Evoluir o aplicativo de cadastro atual utilizando modelos de inteligência artificial (OCR) para leitura automatizada de documentos de identidade.
+Meu plano de desenvolvimento está desenhado para conectar o universo *Low-Code* às necessidades de arquiteturas corporativas complexas:
+
+- [x] **Fase 1: Fundamentos e Interface:** Criação de telas dinâmicas, tratamento de dados de entrada e uso de conectores nativos de hardware (Câmera).
+- [x] **Fase 2: Persistência de Dados Robusta:** Migração de estruturas simples de dados para o ecossistema do **Dataverse**, garantindo segurança e integridade relacional.
+- [ ] **Fase 3: Automação e Notificações:** Integrar os aplicativos atuais ao **Power Automate** para gerenciamento de fluxos de aprovação de dados e envio de e-mails automáticos.
+- [ ] **Fase 4: Inteligência Artificial Aplicada:** Implementar modelos de OCR utilizando o **AI Builder** no Power Apps para leitura automatizada de documentos de identidade (RG/CNH).
+- [ ] **Fase 5: Integração com SAP (Grande Objetivo Técnico):** Estudar e documentar conectividade com o ecossistema **SAP** (via *SAP ERP Connector* ou consumo de *APIs OData*), unindo a agilidade do Power Apps com o maior ERP corporativo do mercado.
 
 ---
 
-Desenvolvido por Milton Faria Andrade Júnior.
+## 📈 Certificações no Radar (DREAM)
+
+- [ ] Microsoft Certified: Power Platform Fundamentals (PL-900)
