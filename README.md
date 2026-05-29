@@ -23,6 +23,10 @@ Cada pasta neste diretório representa um marco na minha evolução técnica. Ab
 * **Stack:** Power Apps (Canvas App) + Microsoft Dataverse (Premium).
 * **Status:** Concluído.
 
+### 2. [🚚 Sistema de Monitoramento de Transportes e Logística](./2.%20Sistema%20de%20Monitoramento%20de%20Transportes%20e%20Log%C3%ADstica%20(Power%20Apps%20%2B%20Dataverse)) ![Em Desenvolvimento](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+* **Descrição:** Solução focada no gerenciamento de fretes, controle de frotas e análise de eficiência/custo por quilômetro rodado.
+* **Stack:** Power Apps (Canvas App) + Microsoft Dataverse + Bing Maps API.
+* **Status:** 🚧 Em andamento.
 ---
 
 ## 🗺️ Roadmap de Aprendizado & Próximos Passos
